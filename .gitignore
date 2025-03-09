@@ -5,8 +5,11 @@ Data/
 log*/
 深度学习任务需求说明.doc
 Readme.txt
-Code/Words/
 
+# 忽略文件类型
+*.xlsx
+*.csv
+*.doc
 
 
 # Byte-compiled / optimized / DLL files
