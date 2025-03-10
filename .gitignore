@@ -4,7 +4,7 @@ All_outsource_v5/*
 Data/*
 !Data/
 log*/*
-!log/
+!log*/
 深度学习任务需求说明.doc
 Readme.txt
 
