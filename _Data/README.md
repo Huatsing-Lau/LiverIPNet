@@ -1,0 +1,1 @@
+All raw data, post-registration data, and extracted lesion npy data are stored in the Data folder.
