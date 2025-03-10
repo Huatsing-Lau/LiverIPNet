@@ -1,8 +1,8 @@
-Add_sample/
-All_keep_v3/
-All_outsource_v5/
-Data/
-log*/
+Add_sample/*
+All_keep_v3/*
+All_outsource_v5/*
+Data/*
+log*/*
 深度学习任务需求说明.doc
 Readme.txt
 
